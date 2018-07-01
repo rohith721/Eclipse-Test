@@ -1,5 +1,13 @@
 package com.example.demo;
 
-public class Rohith1 {
+import java.util.ArrayList;
 
+public class Rohith1 {
+	public static void main(String[] args) {
+//List list;
+		/**
+		 * 
+		 */
+
+	}
 }
